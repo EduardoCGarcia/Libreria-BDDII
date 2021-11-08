@@ -1,0 +1,31 @@
+Anillo Periférico (Valle de México)  #1000
+Avenida 16 de Septiembre (Ciudad de México)  #1007
+Avenida Álvaro Obregón  #1014
+Avenida Ámsterdam  #1021
+Avenida Bucareli  #1028
+Avenida Chapultepec  #1035
+Avenida Constituyentes (Ciudad de México)  #1042
+Avenida de los Insurgentes  #1049
+Avenida Presidente Masaryk  #1056
+Avenida Revolución (Ciudad de México)  #1063
+Avenida Tláhuac  #1070
+Calzada de Guadalupe  #1077
+Calzada de la Viga  #1084
+Calzada de los Misterios  #1091
+Calzada de Tlalpan  #1098
+Calzada Ignacio Zaragoza  #1105
+Calzada México-Tacuba  #1112
+Circuito Interior  #1119
+Eje 1 Norte  #1126
+Eje 1 Poniente  #1133
+Eje 3 Norte  #1140
+Eje 3 Oriente  #1147
+Eje 3 Sur  #1154
+Eje 10 Sur  #1161
+Eje Central Lázaro Cárdenas  #1168
+Ejes viales (Ciudad de México)  #1175
+Calle Regina (Ciudad de México)  #1182
+Río Churubusco  #1189
+Río Consulado  #1196
+Río de la Piedad  #1203
+Río Magdalena (Ciudad de México) #1210
