@@ -1,0 +1,37 @@
+1,Aventura
+2,Ciencia Ficción
+3,Policíaca
+4,Terro y misterio
+5,Romántica
+6,Humor
+7,Poesía
+8,Mitología
+9,Teatro
+10,Cuento
+11,Matemáticas
+12,Astronomía y ciencias afines 
+13,Física
+14,Química y ciencias afines
+15,Geociencias
+16,Paleontología
+17,Ciencias biológicas
+18,Ciencias botánicas
+19,Ciencias zoológicas
+20,Religión natural
+21,Biblia
+22,Teología cristiana
+23,Moral y prácticas cristianas
+24,Iglesia local y órdenes religiosas
+25,Teología social y eclesiología
+26,Historia y geografía de la iglesia
+27,Credos de la iglesia cristiana
+28,Otras religiones
+29,Ciencias médicas
+30,Ingeniería y operaciones afines
+31,Agricultura y tecnologías afines
+32,Economía doméstica
+33,Servicios administrativos empresariales
+34,Química industrial
+35,Manufacturas
+36,Manufacturas varias
+37,Construcciones

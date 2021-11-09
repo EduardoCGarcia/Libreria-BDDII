@@ -1,0 +1,31 @@
+1,7221100100,Anillo Periférico (Valle de México)  #1000
+2,7221101101,Avenida 16 de Septiembre (Ciudad de México)  #1007
+3,7221102102,Avenida Álvaro Obregón  #1014
+4,7221103103,Avenida Ámsterdam  #1021
+5,7221104104,Avenida Bucareli  #1028
+6,7221105105,Avenida Chapultepec  #1035
+7,7221106106,Avenida Constituyentes (Ciudad de México)  #1042
+8,7221107107,Avenida de los Insurgentes  #1049
+9,7221108108,Avenida Presidente Masaryk  #1056
+10,7221109109,Avenida Revolución (Ciudad de México)  #1063
+11,7221110110,Avenida Tláhuac  #1070
+12,7221111111,Calzada de Guadalupe  #1077
+13,7221112112,Calzada de la Viga  #1084
+14,7221113113,Calzada de los Misterios  #1091
+15,7221114114,Calzada de Tlalpan  #1098
+16,7221115115,Calzada Ignacio Zaragoza  #1105
+17,7221116116,Calzada México-Tacuba  #1112
+18,7221117117,Circuito Interior  #1119
+19,7221118118,Eje 1 Norte  #1126
+20,7221119119,Eje 1 Poniente  #1133
+21,7221120120,Eje 3 Norte  #1140
+22,7221121121,Eje 3 Oriente  #1147
+23,7221122122,Eje 3 Sur  #1154
+24,7221123123,Eje 10 Sur  #1161
+25,7221124124,Eje Central Lázaro Cárdenas  #1168
+26,7221125125,Ejes viales (Ciudad de México)  #1175
+27,7221126126,Calle Regina (Ciudad de México)  #1182
+28,7221127127,Río Churubusco  #1189
+29,7221128128,Río Consulado  #1196
+30,7221129129,Río de la Piedad  #1203
+31,7221130130,Río Magdalena (Ciudad de México) #1210
